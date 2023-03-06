@@ -19,7 +19,7 @@ body {
     background-color: var(--cor-primaria);
     color: var(--cor-tercearia);
     box-sizing: border-box;
-    /* zoom: 75%; */
+    zoom: 75%;
 }
 .cabecalho{
     padding: 2% 0% 0% 15%;
