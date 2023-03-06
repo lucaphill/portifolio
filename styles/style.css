@@ -19,7 +19,6 @@ body {
     background-color: var(--cor-primaria);
     color: var(--cor-tercearia);
     box-sizing: border-box;
-    zoom: 75%;
 }
 .cabecalho{
     padding: 2% 0% 0% 15%;
@@ -122,5 +121,10 @@ body {
     }
     .apresentacaoConteudo{
         width: auto;
+    }
+}
+@media(max-width: 1390px) {
+    body{
+        zoom: 75%;
     }
 }
