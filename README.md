@@ -1,8 +1,12 @@
 # portifolio
-> Status: Finalizado.
-<h3>Um site basico feito com ajuda dos cursos da alura.
-  <br>Para rodar em sua maquina:</h3>
+> Finalizado
+<h3>Um site basico feito em um curso da alura.
+  <br>Site para visualizar o projato abaixo:</h3>
   
 ```
-Baixe os arquivos acima e execute o index.html.
+https://site-curriculo-one.vercel.app/
 ```
+![Imagem do site](https://user-images.githubusercontent.com/122892978/225774315-e4106e50-9857-4deb-81f2-24b7181dd895.png)
+Este site tem informações além do proprio git-hub para um curriculo.
+### Autor
+> Gabriel Fellipe
