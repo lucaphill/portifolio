@@ -21,7 +21,7 @@ body {
     box-sizing: border-box;
 }
 .cabecalho{
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 0% 12%;
 }
 .cabecalhoMenu{
     display: flex;
@@ -35,7 +35,7 @@ body {
     text-decoration: none;
 }
 .apresentacao {
-    padding: 5% 15%;
+    padding: 5% 12%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -43,7 +43,7 @@ body {
 }
 .apresentacaoConteudo {
     display: flex;
-    width: 50%;
+    width: 60%;
     flex-direction: column;
     gap: 40px;
 }
@@ -93,10 +93,10 @@ body {
     font-size: 1.5rem;
     color: var(--cor-quartearia);
     border: 3px solid var(--cor-tercearia);
-    width: 53%;
+    width: 49%;
 }
 .eu {
-    width: 50%;
+    width: 45%;
     border-radius: 16px;
 }
 .rodape{
@@ -121,6 +121,10 @@ body {
     }
     .apresentacaoConteudo{
         width: auto;
+    }
+    .eu{
+        width: 65%;
+        border-radius: 16px;
     }
 }
 @media(max-width: 1390px) {
