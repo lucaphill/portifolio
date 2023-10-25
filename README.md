@@ -9,4 +9,4 @@ https://site-curriculo-one.vercel.app/
 ![Imagem do site](https://user-images.githubusercontent.com/122892978/225774315-e4106e50-9857-4deb-81f2-24b7181dd895.png)
 Este site tem informações além do proprio git-hub para um curriculo.
 ### Autor
-> Gabriel Fellipe
+> Luca Phill 
