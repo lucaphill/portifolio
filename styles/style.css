@@ -126,6 +126,9 @@ body {
         width: 65%;
         border-radius: 16px;
     }
+    .linkReferencias{
+        width:60%;
+    }
 }
 @media(max-width: 1390px) {
     body{
