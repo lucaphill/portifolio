@@ -4,7 +4,7 @@
     --cor-primaria: #070707;
     --cor-secundaria: #9e6700;
     --cor-tercearia: #fff4db;
-    --cor-quartearia: #047900;
+    --cor-quartearia: #536261;
     --cor-hover: #1f1d18;
 
     --fonte-primaria: 'Krona One', sans-serif;
@@ -49,6 +49,15 @@ body {
     width: 60%;
     flex-direction: column;
     gap: 40px;
+}
+.apreContentTextoLink {
+    color: var(--cor-quartearia);
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.apreContentTextoLink:hover {
+    color: var(--cor-secundaria);
 }
 .apreContentTitulo {
     font-size: 2.25rem;
