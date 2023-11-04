@@ -6,7 +6,8 @@
 ```
 https://curriculo-opal.vercel.app/index.html
 ```
-![Imagem do site](https://user-images.githubusercontent.com/122892978/225774315-e4106e50-9857-4deb-81f2-24b7181dd895.png)
+![Imagem do site](https://github.com/lucaphill/portifolio/assets/122892978/f27ff5e3-ddab-4ee7-a618-daf0ef3e1f64)
 Este site tem informações além do proprio git-hub para um curriculo.
 ### Autor
 > Luca Phill 
+
