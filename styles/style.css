@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 :root{
-    --cor-primaria: #090903;
+    --cor-primaria: #010505;
     --cor-secundaria: #2B7B70;
     --cor-tercearia: #F6F6E6;
-    --cor-quartearia: #5A8BC5;
-    --cor-hover: #14140b;
+    --cor-quartearia: #3e5b7a;
+    --cor-destaque: #1d2925;
+    --cor-hover: #0e1412;
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -89,7 +90,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2px solid var(--cor-tercearia);
     width: 50%;
     text-align: center;
     border-radius: 8px;
@@ -99,26 +99,25 @@ body {
     font-size: 1.5rem;
     padding: 16px 0px;
     color: var(--cor-tercearia);
+    background-color: var(--cor-hover);
 }
 .linkReferencias:hover{
-    background-color: var(--cor-hover);
+    background-color: var(--cor-destaque);
     font-size: 1.5rem;
-    color: var(--cor-quartearia);
-    border: 3px solid var(--cor-tercearia);
-    width: 49%;
+    color: var(--cor-tercearia);
 }
 .eu {
     width: 45%;
     border-radius: 16px;
 }
 .rodape{
-    background-color: var(--cor-secundaria);
+    background-color: var(--cor-hover);
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-size: 32px;
     font-weight: 400;
-    color: var(--cor-primaria);
-    padding: 20px;
+    color: var(--cor-tercearia);
+    padding: 15px;
 }
 @media(max-width: 1200px) {
     .cabecalho{
